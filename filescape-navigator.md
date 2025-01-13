@@ -18,6 +18,8 @@ For the first episode of your hit podcast/video channel, you will demonstrate yo
    * It’s understood that you won’t necessarily understand what you see here; but the point is to show that you can navigate through “unexplored territory” on your computer via the command line
 4. In addition to the specific commands/actions listed above, make sure to find opportunities to do the following as well:
    * Use `pwd` to confirm where you are located on the file system
+   * Use the `-l`, `-F`, and `-a` options of `ls` to reveal additional information about the files you are exploring; `-a` in particular will be interesting because of its ability to list hidden files
+   * Use wildcard characters (`*`, etc.) to help restrict which files are listed
    * Use arrow keys to navigate through your history if you need to perform the same or similar command again
    * Use <kbd>control</kbd>-<kbd>r</kbd> to do the same, via search
    * Edit your command as needed, using keyboard shortcuts when possible (e.g., <kbd>control</kbd>-<kbd>a</kbd>, <kbd>control</kbd>-<kbd>e</kbd>, <kbd>meta</kbd>-<kbd>f</kbd>, <kbd>meta</kbd>-<kbd>b</kbd>, <kbd>meta</kbd>-<kbd>d</kbd>, etc.)
@@ -49,14 +51,15 @@ For this particular episode, graded categories are as follows:
 | • Navigation of a past programming project | 10 points |
 | • Navigation of a programming language installation | 10 points |
 | Proficiencies to demonstrate | 75 points total |
-| • Moving around folders (`cd` etc.) | 15 points |
+| • Moving around folders (`cd` etc.) | 10 points |
+| • Listing files and showing information about them (`ls` and its various options) | 15 points |
 | • Displaying text files (`more`/`less` and keyboard controls within) | 15 points |
-| • Using <kbd>tab</kbd> autocomplete to save on typing | 15 points |
-| • Locating where programs reside (`which`) | 10 points |
+| • Using <kbd>tab</kbd> autocomplete to save on typing | 10 points |
+| • Locating where programs reside (`which`) | 5 points |
 | • Using command history to save on typing (arrow keys, <kbd>control</kbd>-<kbd>r</kbd>, etc.) | 10 points |
 | • Editing the current command (moving back and forth, making changes) | 10 points |
 | Fun factor (counted only if content and proficiencies are complete) | extra credit |
-| Sus-looking footage | deduction only |
+| Sus footage | deduction only |
 | Punctuality | deduction only |
 | **Total** | **100** |
 
