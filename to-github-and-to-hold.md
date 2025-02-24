@@ -75,6 +75,7 @@ For each selected subfolder, do the following:
 5. Show your Markdown proficiency by including at least the following in _one_ of the _README.md_ files: pick the category where you feel you have the most to say
     * One or more headings (`#`, `##`, `###`, etc.)
     * Bold (`**`) and italic (`_`) text
+    * Website links (`[]()` notation)
     * A list (`*` or `1.`)
 
    Need more examples in addition to the [official documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)? Just switch to <kbd>Code</kbd> while reading this file 😁
