@@ -36,7 +36,7 @@ _Note:_ As with the previous episode, to make sure that we aren’t totally lost
 
     * This script asks you to do a variant of GitHub’s instructions labeled “**…or create a new repository on the command line**”
     * During practice, consider following those commands exactly at first, just so you get the hang of it
-5. Use the command line to move your curated image collection folder from [Episode 0205](./curator-personalis.md) into this brand-new _git_ repository
+5. Use the command line to move (`mv`) your curated image collection folder from [Episode 0205](./curator-personalis.md) into this brand-new _git_ repository
 6. Invoke `git status` to show that _git_ now lists this folder in the “Untracked files” section
 7. Now that the files are there, you can proceed with the following commands. Note that they correspond to the instructions given in “**…or create a new repository on the command line**,” but we did `git init` first and we now include your curated image collection folder:
 
