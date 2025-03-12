@@ -52,6 +52,8 @@ Phase your work according to the following five (5) units of work, each concludi
 4. Generate the random coordinates within the loop, tallying up the ones inside the unit circle
 5. Make the program compute and display the final result
 
+These five (5) commits are _in addition to_ the first commit done during repository initialization. So in the end, you should have a total of six (6) or more commits in your repository when you’re done
+
 Note that we are expressly _not_ pushing our work to the GitHub servers until Scene Five
 
 Once more, you are _not_ expected to record yourself doing the actual edits. Just record yourself when the coding work is done and you are ready to commit your work. And you only need to record yourself for three (3) of the commits; do the others off-camera
@@ -73,7 +75,9 @@ These two cut-scenes should proceed as follows:
 Observe that _git_ will bring up a default command-line editor when performing `git commit --amend`—and this editor might not be your editor of choice. For one (1) of your two (2) commits, show that you know how to set the `EDITOR` environment variable to change this up!
 1. `echo $EDITOR` to show its current value (it may be blank, indicating that _git_ will choose a default)
 2. `export EDITOR=<path to editor>` to set the editor (use `which` to determine the path)
-3. Do `git commit --amend` as described above
+    * Though less precise, some setups might have a path that has spaces in it—if this affects you, just naming the editor should suffice: `export EDITOR=<editor executable name>`
+    * To clear the value of `EDITOR` without having to close/open a new command line window, you can do `unset EDITOR`
+4. Do `git commit --amend` as described above
 
 If _git_ **does** default to your editor of choice, turnabout is fair play! Still pick a commit where you perform the above steps, but for the command-line editor that is _not_ your favorite. You can always set it back afterward
 
