@@ -138,9 +138,10 @@ For this particular episode, graded categories are as follows:
 | • Making incremental commits as you work, according to the given steps and procedures (this involves both your recorded episode and the state of your GitHub repository) | 20 points |
 | • Checking the status of a _git_ repository | 5 points |
 | • Examining file differences from the prior commit (unstaged and staged) | 10 points |
-| • Reviewing the commit log | 10 points |
+| • Reviewing the commit log | 5 points |
 | • Amending a commit message | 10 points |
 | • Customizing the editor that _git_ uses | 10 points |
+| • Using commands and techniques from prior episodes (`cd`, `ls`, `more`/`less`, tab autocomplete, command history/search, command editing, `mv`, etc.) | 5 points |
 | Fun factor (counted only if content and proficiencies are complete) | extra credit |
 | Sus footage | deduction only |
 | Punctuality | deduction only |
