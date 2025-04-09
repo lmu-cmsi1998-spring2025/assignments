@@ -149,7 +149,7 @@ For this particular episode, graded categories are as follows:
 | Proficiencies to demonstrate | 120 points total |
 | • Good commit habits by both team members (`git status`, `git diff`, etc.) | 20 points |
 | • Merging non-conflicting pulls by both team members | 30 points |
-| • Resolving merge conflicts by both teeam members | 30 points |
+| • Resolving merge conflicts by both team members | 30 points |
 | • Telling _git_ to ignore files that should not be committed via _.gitignore_ | 20 points |
 | • Using commands and techniques from prior episodes (_git_ commands covered so far, `cd`, `ls`, `more`/`less`, tab autocomplete, command history/search, command editing, `mv`, etc.) | 20 points |
 | Fun factor (counted only if content and proficiencies are complete) | extra credit |
