@@ -134,3 +134,29 @@ _On camera_, one team member should create this file and then:
 Upload the final video file to the corresponding assignment slot in Brightspace. If the file is too large, find an alternative way to host the file then link to it in your Brightspace submission. Ideally this won’t be necessary
 
 We expect to see the `practice-0409` and `episode-0409` repositories as well—as before, we will be reviewing them too
+
+## Specific Point Allocations
+For this particular episode, graded categories are as follows:
+
+| Category | Points |
+| -------- | -----: |
+| Expected content | 80 points total |
+| • Conflict-free committing and merging of `is_leap_year` and _README.md_ | 16 points |
+| • Conflict-free committing and merging of `is_leap_year` and `days_in_month` | 16 points |
+| • Merge conflict resolution of `is_valid_date` | 16 points |
+| • Merge conflict resolution of `day_counter` | 16 points |
+| • Appearance of _\_\_pycache\_\__ and omission via _.gitignore_ | 16 points |
+| Proficiencies to demonstrate | 120 points total |
+| • Good commit habits by both team members (`git status`, `git diff`, etc.) | 20 points |
+| • Merging non-conflicting pulls by both team members | 30 points |
+| • Resolving merge conflicts by both teeam members | 30 points |
+| • Telling _git_ to ignore files that should not be committed via _.gitignore_ | 20 points |
+| • Using commands and techniques from prior episodes (_git_ commands covered so far, `cd`, `ls`, `more`/`less`, tab autocomplete, command history/search, command editing, `mv`, etc.) | 20 points |
+| Fun factor (counted only if content and proficiencies are complete) | extra credit |
+| Sus footage | deduction only |
+| Punctuality | deduction only |
+| **Total** | **200** |
+
+Regarding the fun factor extra credit, as noted in the syllabus, entertainment value makes informative videos better but it does not redeem uninformative ones. Make sure that your episode has the requested content and you show the desired proficiencies first before spending time on sprucing things up. Otherwise, extra credit will not be included
+
+Graders reserve the right to impose additional overall deductions if anything that seriously detracts from effective fulfillment of the assignment’s objectives is noted, even if it does not match any specific category above
