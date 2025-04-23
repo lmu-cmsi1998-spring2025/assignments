@@ -111,3 +111,27 @@ Scene Three is structurally the same as Scene Two, except the roles should be sw
 Upload the final video file to the corresponding assignment slot in Brightspace. If the file is too large, find an alternative way to host the file then link to it in your Brightspace submission. Ideally this won’t be necessary
 
 We expect to see the `practice-0428` and `episode-0428` repositories as well—as before, we will be reviewing them too
+
+## Specific Point Allocations
+For this particular episode, graded categories are as follows:
+
+| Category | Points |
+| -------- | -----: |
+| Expected content | 90 points total |
+| • Concurrent branch work and merging on a bug fix and _calc_ module | 30 points |
+| • Concurrent branch work on distinct _calc_ modules with stashing | 30 points |
+| • Another scenario as above but with switched roles | 30 points |
+| Proficiencies to demonstrate | 110 points total |
+| • _git_ branch creation and pushing by both team members | 25 points |
+| • Merging non-conflicting branches by both team members | 20 points |
+| • Resolving branch merge conflicts by both team members | 20 points |
+| • Pushing and popping unfinished, uncommitted code to/from the _git_ stash | 25 points |
+| • Using commands and techniques from prior episodes (_git_ commands covered so far, `cd`, `ls`, `more`/`less`, tab autocomplete, command history/search, command editing, `mv`, etc.) | 20 points |
+| Fun factor (counted only if content and proficiencies are complete) | extra credit |
+| Sus footage | deduction only |
+| Punctuality | deduction only |
+| **Total** | **200** |
+
+Regarding the fun factor extra credit, as noted in the syllabus, entertainment value makes informative videos better but it does not redeem uninformative ones. Make sure that your episode has the requested content and you show the desired proficiencies first before spending time on sprucing things up. Otherwise, extra credit will not be included
+
+Graders reserve the right to impose additional overall deductions if anything that seriously detracts from effective fulfillment of the assignment’s objectives is noted, even if it does not match any specific category above
