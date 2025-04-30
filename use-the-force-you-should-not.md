@@ -55,7 +55,7 @@ Enact a situation that calls for an appropriate use of the `git rebase --interac
 
     git rebase --interactive <commit ID or HEAD expression>
 
-Yes, this will also require that you “use the `--force`” 🧐
+Yes, this will also require that you “use the `--force`” 🧐 In addition, as seen in class this command makes heavy use of the default command-line editor, so if desired feel free to customize your `EDITOR` environment variable as you please
 
 ### Scene Six: Attack of the `cherry-pick`
 Enact a situation that calls for an appropriate use of the `git cherry-pick` command, which applies a single commit from anywhere else in the repository to any selected branch in that repository:
