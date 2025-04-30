@@ -73,5 +73,4 @@ Upload the final video file to the corresponding assignment slot in Brightspace.
 
 Leave any repositories used in the video on the class’s [GitHub organization](https://github.com/lmu-cmsi1998-spring2025). Make sure they are named clearly; at the very least, include your GitHub username in the repository’s name. Ideally, the repository name also identifies that it is part of this episode: `episode-0512`
 
-
-We expect to see the `practice-0409` and `episode-0409` repositories as well—as before, we will be reviewing them too
+We expect to see the `practice-0512` and `episode-0512` repositories as well—as before, we will be reviewing them too
