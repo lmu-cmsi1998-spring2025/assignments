@@ -74,3 +74,32 @@ Upload the final video file to the corresponding assignment slot in Brightspace.
 Leave any repositories used in the video on the class’s [GitHub organization](https://github.com/lmu-cmsi1998-spring2025). Make sure they are named clearly; at the very least, include your GitHub username in the repository’s name. Ideally, the repository name also identifies that it is part of this episode: `episode-0512`
 
 We expect to see the `practice-0512` and `episode-0512` repositories as well—as before, we will be reviewing them too
+
+## Specific Point Allocations
+For this particular episode, graded categories are as follows:
+
+| Category | Points |
+| -------- | -----: |
+| Expected content | 30 points total |
+| • Scenario for `git restore` | 5 points |
+| • Scenario for `git revert` | 5 points |
+| • Scenario for `git reset` | 5 points |
+| • Scenario for `git rebase` | 5 points |
+| • Scenario for `git rebase --interactive` | 5 points |
+| • Scenario for `git cherry-pick` | 5 points |
+| Proficiencies to demonstrate | 70 points total |
+| • Sensible situation for and effective usage of `git restore` | 10 points |
+| • Sensible situation for and effective usage of `git revert` | 10 points |
+| • Sensible situation for and effective usage of `git reset` | 10 points |
+| • Sensible situation for and effective usage of `git rebase` | 10 points |
+| • Sensible situation for and effective usage of `git rebase --interactive` | 10 points |
+| • Sensible situation for and effective usage of `git cherry-pick` | 10 points |
+| • Using commands and techniques from prior episodes (_git_ commands covered so far, `cd`, `ls`, `more`/`less`, tab autocomplete, command history/search, command editing, `mv`, etc.) | 10 points |
+| Fun factor (counted only if content and proficiencies are complete) | extra credit |
+| Sus footage | deduction only |
+| Punctuality | deduction only |
+| **Total** | **100** |
+
+Regarding the fun factor extra credit, as noted in the syllabus, entertainment value makes informative videos better but it does not redeem uninformative ones. Make sure that your episode has the requested content and you show the desired proficiencies first before spending time on sprucing things up. Otherwise, extra credit will not be included
+
+Graders reserve the right to impose additional overall deductions if anything that seriously detracts from effective fulfillment of the assignment’s objectives is noted, even if it does not match any specific category above
