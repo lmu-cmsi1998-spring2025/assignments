@@ -86,9 +86,9 @@ Off-camera, both team members should do their work, committing as frequently as 
 This scene models how bug-fixing and new-feature development can take place on a software product at the same time 🪲
 
 ### Scene Two: Finding New Operators
-It’s time to focus on new features! For this scene, both team members each implement new operators and their describer functions. They each work on their own branches, then merge and test when done. One team member merges before the other player commits, thus requiring the use of `git stash` in order not to lose their work-in-progress
+It’s time to focus on new features! For this scene, both team members each implement new operators and their describer functions. They each work on their own branches, then merge and test when done. One team member merges before the other one commits, thus requiring the use of `git stash` in order not to lose their work-in-progress
 
-On-camera, the scene should start with each team member creating a branch for their new operator then pushing it to `origin`. The action then goes off-camera as each team member implements their respective new operators. One team member commits as frequently as necessary, while another player does _not_ commit their work 
+On-camera, the scene should start with each team member creating a branch for their new operator then pushing it to `origin`. The action then goes off-camera as each team member implements their respective new operators. One team member commits as frequently as necessary, while the other member does _not_ commit their work 
 
 Once the committing member’s work is done, the team returns to the camera to merge their work. After each merge, the program should be tested to ensure that the new operator has been integrated correctly. _calc.py_ should also be run without arguments to make sure that the describer functions are correctly invoked as well:
 1. The committing team member pulls `main` then merges their branch into `main`, doing the aforementioned tests before pushing
